@@ -1,0 +1,374 @@
+{
+  "Learning & Coding": {
+    "Free": [
+      { "id": 1, "name": "CoddyTech", "url": "https://coddy.tech/", "desc": "Learn to code through interactive projects.", "sponsored": true },
+      { "id": 2, "name": "Codedex", "url": "https://codedex.io/", "desc": "Learn to code in a fun, game-like way.", "sponsored": false },
+      { "id": 3, "name": "Mindluster", "url": "https://mindluster.com/", "desc": "Free online courses and certifications." },
+      { "id": 4, "name": "Hacksplaining", "url": "https://hacksplaining.com/", "desc": "Learn about web security vulnerabilities." },
+      { "id": 5, "name": "Alternativeto", "url": "https://alternativeto.net/", "desc": "Find software alternatives and reviews." },
+      { "id": 6, "name": "LMarena AI", "url": "https://lmarena.ai/", "desc": "AI model testing and comparison platform." },
+      { "id": 7, "name": "Mult Dev", "url": "https://mult.dev/", "desc": "Development tools and resources." },
+      { "id": 8, "name": "Zoo Dev", "url": "https://zoo.dev/", "desc": "Developer tools and open-source projects." },
+      { "id": 9, "name": "Coolify", "url": "https://coolify.io/", "desc": "Self-hostable Heroku alternative." }
+
+    ],
+    "Paid": [
+      { "id": 1, "name": "Exercism", "url": "https://exercism.org/", "desc": "Practice coding with mentorship and exercises." },
+      { "id": 2, "name": "Geeksforgeeks Courses", "url": "https://geeksforgeeks.org/", "desc": "Tutorials and practice for computer science." },
+      { "id": 3, "name": "Tryhackme", "url": "https://tryhackme.com/", "desc": "Learn cybersecurity through hands-on labs." },
+      { "id": 4, "name": "PentestGPT", "url": "https://pentestgpt.ai/", "desc": "AI assistant for cybersecurity testing." },
+      { "id": 5, "name": "Blackbox AI", "url": "https://blackbox.ai/", "desc": "AI coding assistant and code generator." },
+      { "id": 6, "name": "Packify AI", "url": "https://packify.ai/", "desc": "AI tool to package and deploy code." },
+      { "id": 7, "name": "Arting AI", "url": "https://arting.ai/", "desc": "AI-powered art and design tool." },
+      { "id": 8, "name": "Data Button", "url": "https://databutton.com/", "desc": "ABuild web apps with AI, no coding needed." },
+      { "id": 9, "name": "Backpackbot AI", "url": "https://backpackbot.ai/", "desc": "AI coding companion and assistant." },
+      { "id": 10, "name": "Akto", "url": "https://akto.io/", "desc": "API security testing platform." }
+    ]
+  },
+  "Education & Study":{
+    "Free":[
+      { "id": 1, "name": "Code2Tutorial", "url": "https://code2tutorial.com/", "desc": "Coding tutorials and programming guides." },
+      { "id": 2, "name": "Ocw Mit Edu", "url": "https://ocw.mit.edu/", "desc": "MIT OpenCourseWare - free university courses." },
+      { "id": 3, "name": "TypingBird", "url": "https://typingbird.com/", "desc": "Typing practice and lessons." },
+      { "id": 4, "name": "Chemcollective", "url": "https://chemcollective.org/", "desc": "Virtual chemistry labs and activities." },
+      { "id": 5, "name": "sweethome3d", "url": "https://sweethome3d.com/", "desc": "Free interior design and architecture software." },
+      { "id": 6, "name": "Ravelry", "url": "https://ravelry.com/", "desc": "Community site for knitting and crochet patterns." },
+      { "id": 7, "name": "Emupedia", "url": "https://emupedia.net/", "desc": "Educational retro games and software archive." },
+      { "id": 8, "name": "Geo-fs", "url": "https://geo-fs.com/", "desc": "Online flight simulator for geography learning." },
+      { "id": 9, "name": "Animejs", "url": "https://animejs.com/", "desc": "JavaScript animation library documentation." },
+      { "id": 10, "name": "Magic AI Editor", "url": "https://magicaieditor.com/", "desc": "AI code editor and learning tool." },
+      { "id": 11, "name": "Exiftool", "url": "https://exiftool.org/", "desc": "Read, write, and edit metadata in files." },
+      { "id": 12, "name": "Phase", "url": "https://phase.com/", "desc": "Interactive 3D models for education." }
+    ],
+
+    "Paid":[
+      { "id": 1, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 2, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 3, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 4, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 5, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 6, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 7, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 8, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 9, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 10, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." }
+    ]
+  },
+
+  "Digital Marketing & SEO":{
+    "Free":[
+      { "id": 1, "name": "Dork GPT", "url": "https://dorkgpt.com/", "desc": "AI tool for generating Google dorks." },
+      { "id": 2, "name": "Just Delete Me", "url": "https://justdeleteme.xyz/", "desc": "Guide to deleting online accounts." },
+      { "id": 3, "name": "Listmonk App", "url": "https://listmonk.app/", "desc": "Self-hosted newsletter and mailing list manager." }
+
+    ],
+
+    "Paid":[
+      { "id": 1, "name": "Go Live India", "url": "https://goliveindia.in/", "desc": "Website development and digital marketing services." },
+      { "id": 2, "name": "Content Core", "url": "https://contentcore.xyz/", "desc": "Content marketing tools and resources." },
+      { "id": 3, "name": "Production Create", "url": "https://productioncreate.com/", "desc": "Content creation for marketing campaigns." },
+      { "id": 4, "name": "Preprod AI", "url": "https://preprod.ai/", "desc": "AI-powered content optimization tool." },
+      { "id": 5, "name": "HappyScribe", "url": "https://happyscribe.com/", "desc": "Transcription and subtitling for content creators." },
+      { "id": 6, "name": "Videogen", "url": "https://videogen.io/", "desc": "AI video generator for marketing content." },
+      { "id": 7, "name": "Phantom Buster", "url": "https://phantombuster.com/", "desc": "Automate marketing and lead generation." },
+      { "id": 8, "name": "PrepostSEO", "url": "https://prepostseo.com/", "desc": "SEO tools suite (plagiarism, grammar, etc.)." },
+      { "id": 9, "name": "Page Audit", "url": "https://pageaudit.com/", "desc": "Website SEO analysis and auditing tool." },
+      { "id": 10, "name": "Inro Social", "url": "https://inro.social/", "desc": "Social media management and analytics." },
+      { "id": 11, "name": "Atlancer AI", "url": "https://atlancer.ai/", "desc": "Freelance platform for marketing professionals." }
+    ]
+  },
+
+  "Developer Tools & Resources": {
+    "Free": [
+      { "id": 1, "name": "Reactbits", "url": "https://reactbits.dev/", "desc": "Collection of React tips and code snippets." },
+      { "id": 2, "name": "Tailbits", "url": "https://tailbits.com/", "desc": "Useful code snippets and tools for developers." },
+      { "id": 3, "name": "UI Devsloka", "url": "https://ui.devsloka.in/", "desc": "Collection of modern UI components." },
+      { "id": 4, "name": "Validatorai", "url": "https://validatorai.com/", "desc": "AI tool to review and validate startup ideas." },
+      { "id": 5, "name": "Squoosh App", "url": "https://squoosh.app/", "desc": "Compress and optimize image files." },
+      { "id": 6, "name": "Tools PDF24", "url": "https://tools.pdf24.org/", "desc": "Free online PDF tools (edit, merge, convert)." },
+      { "id": 7, "name": "Seostudio Tools", "url": "https://seostudio.tools/", "desc": "Collection of free SEO analysis tools." },
+      { "id": 8, "name": "Devdocs", "url": "https://devdocs.io/", "desc": "Fast, searchable documentation for developers." },
+      { "id": 9, "name": "Caniuse", "url": "https://caniuse.com/", "desc": "Check browser support for web technologies." },
+      { "id": 10, "name": "CSS Grid Generator", "url": "https://cssgridgenerator.io/", "desc": "Visually create CSS grid layouts." },
+      { "id": 11, "name": "Neumorphism", "url": "https://neumorphism.io/", "desc": "Generate soft UI CSS shadows." },
+      { "id": 12, "name": "Animista", "url": "https://animista.net/", "desc": "Generate and customize CSS animations" },
+      { "id": 13, "name": "Auto Prefixer", "url": "https://autoprefixer.github.io/", "desc": "Add vendor prefixes to CSS automatically." },
+      { "id": 14, "name": "html5up", "url": "https://html5up.net/", "desc": "Free, responsive HTML website templates." },
+      { "id": 15, "name": "Scrollxui", "url": "https://scrollxui.dev/", "desc": "Fancy scroll-based animations." },
+      { "id": 16, "name": "Web-Check", "url": "https://web-check.xyz/", "desc": "Analyze any website's tech stack." },
+      { "id": 17, "name": "Pomelli", "url": "https://pomelli.me/", "desc": "Productivity and task management for devs." }
+    ],
+    "Paid": [
+      { "id": 1, "name": "Diffchecker", "url": "https://diffchecker.com/", "desc": "Compare text files to find differences." },
+      { "id": 2, "name": "Openstatus", "url": "https://openstatus.dev/", "desc": "Monitor your website's uptime." },
+      { "id": 3, "name": "Sejda", "url": "https://sejda.com/", "desc": "Online PDF editor for basic tasks." }
+
+    ]
+  },
+  "Design & Creativity": {
+    "Free": [
+      { "id": 1, "name": "Cosmic UI", "url": "https://cosmic-ui.com/", "desc": "Library of copy-paste UI components." },
+      { "id": 2, "name": "Atoms Dev", "url": "https://atoms.dev/", "desc": "Design system and UI component builder." },
+      { "id": 3, "name": "MagicPattern", "url": "https://magicpattern.design/tools/css-backgrounds", "desc": "Generate CSS background patterns." },
+      { "id": 4, "name": "Nurui Vercel App", "url": "https://nurui.vercel.app/", "desc": "Elegant portfolio theme for Gatsby." },
+      { "id": 5, "name": "Banana Prompts", "url": "https://bananaprompts.xyz/", "desc": "Collection of prompts for AI image generation." },
+      { "id": 6, "name": "Create Wan", "url": "https://create.wan.video/", "desc": "Tool to create short videos." },
+      { "id": 7, "name": "Emoji Encoder Vercel App", "url": "https://emoji-encoder.vercel.app/", "desc": "Convert text into emoji sequences." },
+      { "id": 8, "name": "Paper Animator", "url": "https://paperanimator.com/", "desc": "Create simple paper-like animations." },
+      { "id": 9, "name": "The Toymaker", "url": "https://thetoymaker.com/", "desc": "Paper toy models and crafts to print." },
+      { "id": 10, "name": "Sweezy Cursors", "url": "https://sweezy-cursors.com/", "desc": "Collection of custom mouse cursors." },
+      { "id": 11, "name": "TheStocks", "url": "https://thestocks.im/", "desc": "Royalty-free stock photo aggregator." },
+      { "id": 12, "name": "Dreamina Capcut", "url": "https://dreamina.capcut.com/", "desc": "AI video effects and editing tool." },
+      { "id": 13, "name": "White Screen", "url": "https://whitescreen.online/", "desc": "Pure white screen for presentations." },
+      { "id": 14, "name": "Wallpapers-Clan", "url": "https://wallpapers-clan.com/", "desc": "Collection of wallpapers." },
+      { "id": 15, "name": "10015 AI", "url": "https://10015.io/", "desc": "All-in-one design and productivity tools." }
+    ],
+    "Paid": [
+      { "id": 1, "name": "Designarena", "url": "https://designarena.ai/", "desc": "AI-powered design tools and resources." },
+      { "id": 2, "name": "Designi", "url": "https://designi.com/", "desc": "AI tool to generate logos and graphics." },
+      { "id": 3, "name": "Recraft", "url": "https://recraft.ai/", "desc": "AI tool to generate vector art and illustrations." },
+      { "id": 4, "name": "Human Biodigital", "url": "https://human.biodigital.com/", "desc": "Interactive 3D human anatomy model." },
+      { "id": 5, "name": "Glideapps", "url": "https://glideapps.com/", "desc": "Create apps from Google Sheets, no code." },
+      { "id": 6, "name": "Universe", "url": "https://universe.io/", "desc": "Create a simple website on your phone." },
+      { "id": 7, "name": "Tripo3d AI", "url": "https://tripo3d.ai/", "desc": "AI tool to generate 3D models from text." },
+      { "id": 8, "name": "Jitter", "url": "https://jitter.video/", "desc": "Create animated graphics and videos." },
+      { "id": 9, "name": "Imgflip", "url": "https://imgflip.com/memetemplates", "desc": "Meme generator with templates." },
+      { "id": 10, "name": "Hera Video", "url": "https://hera.video/", "desc": "Video creation and editing tool." },
+      { "id": 11, "name": "Recrtaft AI", "url": "https://recrtaft.ai/", "desc": "AI recruiting and hiring platform." },
+      { "id": 12, "name": "Celebify AI", "url": "https://celebify.ai/", "desc": "Transform photos into celebrity styles." },
+      { "id": 13, "name": "MyPerfectPack", "url": "https://myperfectpack.com/", "desc": "Custom packaging design tool." }
+    ]
+  },
+
+  "AI & Machine Learning": {
+    "Free": [
+      { "id": 1, "name": "Opencode AI", "url": "https://opencode.ai/", "desc": "Curated list of open-source AI projects." },
+      { "id": 2, "name": "Toolify AI", "url": "https://toolify.ai/", "desc": "Directory of AI tools and applications." }
+
+    ],
+    "Paid": [
+      { "id": 1, "name": "Caffeine AI", "url": "https://caffeine.ai/", "desc": "Platform for building and deploying AI models." },
+      { "id": 2, "name": "Gambo AI", "url": "https://gambo.ai/", "desc": "Platform for building custom AI assistants." },
+      { "id": 3, "name": "Appark AI", "url": "https://appark.ai/", "desc": "AI-powered search and organization tool." },
+      { "id": 4, "name": "App Exists AI", "url": "https://app.exists.ai/", "desc": "AI tool for various creative tasks." },
+      { "id": 5, "name": "Omic AI", "url": "https://omic.ai/", "desc": "AI development and deployment platform." },
+      { "id": 6, "name": "Lindy AI", "url": "https://lindy.ai/", "desc": "AI assistant for daily tasks." },
+      { "id": 7, "name": "Wegic AI", "url": "https://wegic.ai/", "desc": "AI-powered content generation." }
+
+    ]
+  },
+
+  "Gaming & Entertainment": {
+    "Free": [
+      { "id": 1, "name": "MCS tumble", "url": "https://mcstumble.com/", "desc": "Find random Minecraft servers." },
+      { "id": 2, "name": "Lost Gamer", "url": "https://lostgamer.io/", "desc": "Database of old and forgotten video games." },
+      { "id": 3, "name": "Toy Theater", "url": "https://toytheater.com/", "desc": "Educational online games for kids." },
+      { "id": 4, "name": "Play Glenn", "url": "https://playglenn.com/", "desc": "Collection of casual web games." },
+      { "id": 5, "name": "Friv", "url": "https://friv.com/", "desc": "Popular site with many casual games." },
+      { "id": 6, "name": "Play-CS", "url": "https://play-cs.com/", "desc": "Play classic Counter-Strike in browser." },
+      { "id": 7, "name": "Anker Games", "url": "https://ankergames.net/", "desc": "Play free online games." },
+      { "id": 8, "name": "Oceans of Gamess", "url": "https://oceansofgamess.com/", "desc": "Download free PC games." },
+      { "id": 9, "name": "Romsfun", "url": "https://romsfun.com/", "desc": "Download ROMs for retro games." },
+      { "id": 10, "name": "Steamrip", "url": "https://steamrip.com/", "desc": "Download repacked PC games." },
+      { "id": 11, "name": "Fitgirl-Repacks", "url": "https://fitgirl-repacks.site/", "desc": "Download compressed PC game repacks." },
+      { "id": 12, "name": "Acid-Play", "url": "https://acid-play.com/", "desc": "Play old DOS games in your browser." },
+      { "id": 13, "name": "Dos Zone", "url": "https://dos.zone/", "desc": "Play classic DOS games online via emulation." },
+      { "id": 14, "name": "Rocket Goal", "url": "https://rocketgoal.io/", "desc": "Football (soccer) gaming platform." },
+      { "id": 15, "name": "Myretrotvs", "url": "https://myretrotvs.com/", "desc": "Watch old TV shows and commercials." },
+      { "id": 16, "name": "SteamUnlocked", "url": "https://steamunlocked.org/", "desc": "Download free PC games." },
+      { "id": 17, "name": "CityWalk Live", "url": "https://citywalk.live/", "desc": "Virtual city exploration." },
+      { "id": 18, "name": "Floor796", "url": "https://floor796.com/", "desc": "Interactive panoramic pixel art world." }
+    ],
+    "Paid": [
+      { "id": 1, "name": "Airconsole", "url": "https://airconsole.com/", "desc": "Play party games using your phone as a controller." },
+      { "id": 2, "name": "G2G", "url": "https://g2g.com/", "desc": "Marketplace to buy in-game items and accounts." },
+      { "id": 3, "name": "Arloopa", "url": "https://arloopa.com/", "desc": "AR creation and viewing platform." }
+
+    ]
+  },
+
+  "Media (Streaming, Anime, Music)": {
+    "Free": [
+      { "id": 1, "name": "WCOfun Watch", "url": "https://wcofun.watch/", "desc": "Watch cartoons and anime online." },
+      { "id": 2, "name": "Animesalt", "url": "https://animesalt.top/", "desc": "Watch anime online for free." },
+      { "id": 3, "name": "I Have No tv", "url": "https://ihavenotv.com/", "desc": "Archive of free documentaries and films." },
+      { "id": 4, "name": "DrivenListen", "url": "https://drivenlisten.com/", "desc": "Find new music through radio-like channels." },
+      { "id": 5, "name": "Playphrase", "url": "https://playphrase.me/", "desc": "Search for movie and TV clips by dialogue." },
+      { "id": 6, "name": "Jollymod", "url": "https://jollymod.com/", "desc": "Mods for games, apps, and streaming services." },
+      { "id": 7, "name": "Moonflix", "url": "https://moonflix.in/", "desc": "Streaming movies and shows." },
+      { "id": 8, "name": "MHD Tv Max", "url": "https://mhdtvmax.com/", "desc": "Live TV and streaming platform." },
+      { "id": 9, "name": "Tmovie Tv", "url": "https://tmovie.tv/", "desc": "Movie streaming site." }
+
+    ],
+    "Paid": [
+      { "id": 1, "name": "HunyuanVideo", "url": "https://hunyuanvideo.org/", "desc": "AI video generation tool." }
+
+    ]
+  },
+
+  "Productivity & Business": {
+    "Free": [
+      { "id": 1, "name": "Mastodon Social", "url": "https://mastodon.social/", "desc": "Decentralized social media platform." },
+      { "id": 2, "name": "Pending Delete", "url": "https://pendingdelete.domains/", "desc": "Check expiring/deleted domains." },
+      { "id": 3, "name": "Web Archive", "url": "https://web.archive.org/", "desc": "Internet Archive - historical website snapshots." },
+      { "id": 4, "name": "Networthon", "url": "https://networthon.com/", "desc": "Net worth calculator and tracker." },
+      { "id": 5, "name": "Lookup-id", "url": "https://lookup-id.com/", "desc": "Social media ID lookup tool." },
+      { "id": 6, "name": "Archive", "url": "https://archive.is/", "desc": "Website archiving service." },
+      { "id": 7, "name": "Krazylist", "url": "https://krazylist.com/", "desc": "Curated lists and recommendations." }
+
+    ],
+    "Paid": [
+      { "id": 1, "name": "App Memex", "url": "https://app.memex.tech/", "desc": "AI-powered bookmark and note organizer." },
+      { "id": 2, "name": "ImportYeti", "url": "https://importyeti.com/", "desc": "Find who imports products and their suppliers." },
+      { "id": 3, "name": "NameCheap", "url": "https://namecheap.com/", "desc": "Domain registration and web hosting." },
+      { "id": 4, "name": "Home By Me", "url": "https://home.by.me/", "desc": "3D home design and interior planning tool." },
+      { "id": 5, "name": "Socialeye", "url": "https://socialeye.net/", "desc": "Search and analyze social media profiles." },
+      { "id": 6, "name": "Local Ranking", "url": "https://localranking.com/", "desc": "Check local SEO rankings for businesses." },
+      { "id": 7, "name": "Taplio", "url": "https://taplio.com/", "desc": "AI tool for LinkedIn content and growth." },
+      { "id": 8, "name": "Careerflow AI", "url": "https://careerflow.ai/", "desc": "AI-powered job search assistant." },
+      { "id": 9, "name": "Intouch Tools", "url": "https://intouch.tools/", "desc": "Find professional email addresses." },
+      { "id": 10, "name": "Lightpdf", "url": "https://lightpdf.com/", "desc": "Edit, convert, and manage PDFs online." },
+      { "id": 11, "name": "Rocketreach", "url": "https://rocketreach.co/", "desc": "Find business email addresses and contacts." },
+      { "id": 12, "name": "Rocket Send", "url": "https://rocketsend.io/", "desc": "File transfer and sharing service." },
+      { "id": 13, "name": "Omnidim", "url": "https://omnidim.io/", "desc": "Business intelligence and analytics." },
+      { "id": 14, "name": "Easypay Direct", "url": "https://easypaydirect.com/", "desc": "Payment processing services." },
+      { "id": 15, "name": "Leiga", "url": "https://leiga.com/", "desc": "Business tools and services." },
+      { "id": 16, "name": "Stirling", "url": "https://stirling.com/", "desc": "Financial services and tools." },
+      { "id": 17, "name": "Messenger Abeto", "url": "https://messenger.abeto.co/", "desc": "Business messaging platform." }
+    ]
+  },
+
+  "Free Resources & Deals": {
+    "Free": [
+      { "id": 1, "name": "Free-For Dev", "url": "https://free-for.dev/", "desc": "Huge list of free services for developers." },
+      { "id": 2, "name": "Infinity Free", "url": "https://infinityfree.com/", "desc": "Free web hosting with no ads." },
+      { "id": 3, "name": "Fmhy Net", "url": "https://fmhy.net/", "desc": "Free Media Heck Yeah - massive list of free resources." },
+      { "id": 4, "name": "Is There Anydeal", "url": "https://isthereanydeal.com/", "desc": "Tracks PC game prices and deals." },
+      { "id": 5, "name": "dekudeals", "url": "https://dekudeals.com/", "desc": "Tracks Nintendo Switch game prices and deals." },
+      { "id": 6, "name": "Freedomain", "url": "https://freedomain.one/", "desc": "Get free domain names." },
+      { "id": 7, "name": "Adescargar", "url": "https://adescargar.net/", "desc": "Download free apps and software." }
+
+    ],
+    "Paid": [
+      { "id": 1, "name": "Freeup", "url": "https://freeup.net/", "desc": "Hire freelance professionals." }
+
+    ]
+  },
+
+  "Utilities": {
+    "Free": [
+      { "id": 1, "name": "Whatsmyname App", "url": "https://whatsmyname.app/", "desc": "Check usernames across many social sites." },
+      { "id": 2, "name": "Web Studio", "url": "https://webstudio.is/", "desc": "Web-based design and prototyping tool." },
+      { "id": 3, "name": "Blink New", "url": "https://blink.new/", "desc": "Quickly create a new development project." },
+      { "id": 4, "name": "Creenity", "url": "https://creenity.io/", "desc": "Tool to record your screen and camera." },
+      { "id": 5, "name": "Tube Transcript", "url": "https://tubetranscript.com/", "desc": "Get transcripts from YouTube videos." },
+      { "id": 6, "name": "File Pursuit", "url": "https://filepursuit.com/", "desc": "Search engine for finding files on the web." },
+      { "id": 7, "name": "My Instants", "url": "https://myinstants.com/", "desc": "Huge library of sound effects and meme sounds." },
+      { "id": 8, "name": "Monkeytype", "url": "https://monkeytype.com/", "desc": "Minimalist typing speed test." },
+      { "id": 9, "name": "Call Bomberz", "url": "https://callbomberz.in/", "desc": "Prank call tool (use responsibly)." },
+      { "id": 10, "name": "Corrupt-a-File", "url": "https://corrupt-a-file.net/", "desc": "Intentionally corrupt a file (e.g., for school)." },
+      { "id": 11, "name": "Cymath", "url": "https://cymath.com/", "desc": "Math problem solver with steps." },
+      { "id": 12, "name": "Omni Calculator", "url": "https://omnicalculator.com/", "desc": "Calculators for hundreds of specific tasks." },
+      { "id": 13, "name": "Econvert", "url": "https://econvert.org/", "desc": "Convert audio, video, images, and documents." },
+      { "id": 14, "name": "Video-Converter", "url": "https://video-converter.org/", "desc": "Convert video files to different formats." },
+      { "id": 15, "name": "SMS24", "url": "https://sms24.me/", "desc": "Receive SMS online with temporary numbers." },
+      { "id": 16, "name": "RandomSkip", "url": "https://randomskip.com/", "desc": "Skip YouTube intros and outros automatically." },
+      { "id": 17, "name": "Ipleak", "url": "https://ipleak.net/", "desc": "Check your IP address and DNS leaks." },
+      { "id": 18, "name": "Have I Been Pwned", "url": "https://haveibeenpwned.com/", "desc": "Check if your email was in data breaches." },
+      { "id": 19, "name": "Y2doc", "url": "https://y2doc.com/", "desc": "YouTube to document converter." },
+      { "id": 20, "name": "Ccard Generator", "url": "https://ccardgenerator.com/", "desc": "Generate test credit card numbers." }
+
+    ],
+    "Paid": [
+      { "id": 1, "name": "Typing Club", "url": "https://typingclub.com/", "desc": "Learn and practice touch typing." },
+      { "id": 2, "name": "Me.Meshcapade", "url": "https://me.meshcapade.com/", "desc": "3D body scanning and avatars." }
+
+    ]
+  },
+
+  "Privacy & Security": {
+    "Free": [
+      { "id": 1, "name": "Proxyium", "url": "https://proxyium.com/", "desc": "Free web proxy to browse anonymously." },
+      { "id": 2, "name": "Proxyearth", "url": "https://proxyearth.org/", "desc": "List of free proxy servers." },
+      { "id": 3, "name": "DeepWebNest", "url": "https://deepwebnest.com/", "desc": "Directory of dark web links and resources." },
+      { "id": 4, "name": "Tosdr", "url": "https://tosdr.org/", "desc": "'Terms of Service; Didn't Read' - rates website terms." },
+      { "id": 5, "name": "App Hackcheck", "url": "https://app.hackcheck.io/", "desc": "Check if your email was in a data breach." }
+
+    ],
+    "Paid": [
+      { "id": 1, "name": "White Pages", "url": "https://whitepages.com/", "desc": "Find people and contact information." },
+      { "id": 2, "name": "Search-People-for-Free", "url": "https://searchpeopleforfree.com/", "desc": "People search and background check." }
+
+    ]
+  },
+
+  "Marketplaces & Platforms": {
+    "Free": [
+      { "id": 1, "name": "Welib", "url": "https://welib.org/", "desc": "Library of website templates and assets." },
+      { "id": 2, "name": "Takeout Google", "url": "https://takeout.google.com/", "desc": "Download a copy of your Google data." }
+
+    ],
+    "Paid": [
+      { "id": 1, "name": "Civitai", "url": "https://civitai.com/", "desc": "Share and download AI art models (Stable Diffusion)." },
+      { "id": 2, "name": "Gumroad", "url": "https://gumroad.com/", "desc": "Sell digital products directly to customers." },
+      { "id": 3, "name": "Drone Stock", "url": "https://dronestock.com/", "desc": "Marketplace for drone footage and photos." },
+      { "id": 4, "name": "Codepen", "url": "https://codepen.io/tag/projects", "desc": "Collection of front-end code projects." }
+
+    ]
+  },
+
+  "Community & Content": {
+    "Free": [
+      { "id": 1, "name": "4fnet", "url": "https://4fnet.org/", "desc": "Forum for sharing files and links." },
+      { "id": 2, "name": "Staying Fun", "url": "https://staying.fun/", "desc": "Collection of fun and interesting websites." },
+      { "id": 3, "name": "Yarrlist", "url": "https://yarrlist.com/", "desc": "Directory of sites for Freely Accessible media." },
+      { "id": 4, "name": "Taste Atlas", "url": "https://tasteatlas.com/", "desc": "World map of food, ingredients, and dishes." },
+      { "id": 5, "name": "MuscleWiki", "url": "https://musclewiki.com/", "desc": "Fitness guide targeting specific muscles." },
+      { "id": 6, "name": "Victorraulrr", "url": "https://victorraulrr.net/", "desc": "Personal blog or portfolio site." },
+      { "id": 7, "name": "Smart Servier", "url": "https://smart.servier.com/", "desc": "Free medical illustrations and icons." },
+      { "id": 8, "name": "Lookups", "url": "https://lookups.io/", "desc": "Platform for OSINT and research." },
+      { "id": 9, "name": "Dimensions", "url": "https://dimensions.com/", "desc": "Database of precise dimensions for objects." },
+      { "id": 10, "name": "Jimpl", "url": "https://jimpl.com/", "desc": "'ump in My Photo Library' - share photo albums." },
+      { "id": 11, "name": "ZTY", "url": "https://zty.pe/", "desc": "Collaborative online pixel art board." },
+      { "id": 12, "name": "Hicine App", "url": "https://hicine.app/", "desc": "Watch movies and shows with friends online." }
+
+    ],
+    "Paid": [
+      { "id": 1, "name": "Neapay", "url": "https://neapay.com/", "desc": "Payment service (likely for creators)." },
+      { "id": 2, "name": "A.team", "url": "https://www.a.team/", "desc": "Platform for elite freelance teams." },
+      { "id": 3, "name": "UseBrainTrust", "url": "https://usebraintrust.com/", "desc": "Freelance network for tech talent." },
+      { "id": 4, "name": "Flexiple", "url": "https://flexiple.com/", "desc": "Hire freelance developers and designers." },
+      { "id": 5, "name": "Twine", "url": "https://twine.net/", "desc": "Platform to hire creative freelancers." },
+      { "id": 6, "name": "Uplers", "url": "https://uplers.com/", "desc": "Hire pre-vetted digital marketing talent." },
+      { "id": 7, "name": "Toptal", "url": "https://toptal.com/", "desc": "Hire freelance software developers and designers." }
+
+    ]
+  },
+
+  "E-Commerce & Digital Product": {
+    "Free": [
+      { "id": 1, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 2, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 3, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 4, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 5, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 6, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 7, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 8, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 9, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." },
+      { "id": 10, "name": "Answer The Public", "url": "#", "desc": "Find what people are asking on Google." }
+    ],
+    "Paid": [
+      { "id": 1, "name": "Ahrefs", "url": "#", "desc": "Professional toolset for SEO & backlink analysis." },
+      { "id": 2, "name": "SEMrush", "url": "#", "desc": "All-in-one marketing reporting platform." },
+      { "id": 3, "name": "SEMrush", "url": "#", "desc": "All-in-one marketing reporting platform." },
+      { "id": 4, "name": "SEMrush", "url": "#", "desc": "All-in-one marketing reporting platform." },
+      { "id": 5, "name": "SEMrush", "url": "#", "desc": "All-in-one marketing reporting platform." },
+      { "id": 6, "name": "SEMrush", "url": "#", "desc": "All-in-one marketing reporting platform." },
+      { "id": 7, "name": "SEMrush", "url": "#", "desc": "All-in-one marketing reporting platform." },
+      { "id": 8, "name": "SEMrush", "url": "#", "desc": "All-in-one marketing reporting platform." },
+      { "id": 9, "name": "SEMrush", "url": "#", "desc": "All-in-one marketing reporting platform." },
+      { "id": 10, "name": "SEMrush", "url": "#", "desc": "All-in-one marketing reporting platform." }
+    ]
+  }
+}
