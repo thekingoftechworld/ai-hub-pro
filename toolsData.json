@@ -1,7 +1,7 @@
 {
   "Learning & Coding": {
     "Free": [
-      { "id": 1, "name": "CoddyTech", "url": "https://coddy.tech/", "desc": "Learn to code through interactive projects." },
+      { "id": 1, "name": "CoddyTech", "url": "https://coddy.tech/", "desc": "Learn to code through interactive projects.", "sponsored": true },
       { "id": 2, "name": "Codedex", "url": "https://codedex.io/", "desc": "Learn to code in a fun, game-like way." },
       { "id": 3, "name": "Mindluster", "url": "https://mindluster.com/", "desc": "Free online courses and certifications." },
       { "id": 4, "name": "Hacksplaining", "url": "https://hacksplaining.com/", "desc": "Learn about web security vulnerabilities." },
@@ -373,3 +373,4 @@
   }
 
 }
+
