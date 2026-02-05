@@ -20,7 +20,7 @@
       { "id": 5, "name": "Blackbox AI", "url": "https://blackbox.ai/", "desc": "AI coding assistant and code generator." },
       { "id": 6, "name": "Packify AI", "url": "https://packify.ai/", "desc": "AI tool to package and deploy code." },
       { "id": 7, "name": "Arting AI", "url": "https://arting.ai/", "desc": "AI-powered art and design tool." },
-      { "id": 8, "name": "Data Button", "url": "https://databutton.com/", "desc": "ABuild web apps with AI, no coding needed." },
+      { "id": 8, "name": "Data Button", "url": "https://databutton.com/", "desc": "A Build web apps with AI, no coding needed." },
       { "id": 9, "name": "Backpackbot AI", "url": "https://backpackbot.ai/", "desc": "AI coding companion and assistant." },
       { "id": 10, "name": "Akto", "url": "https://akto.io/", "desc": "API security testing platform." }
     ]
@@ -373,4 +373,5 @@
   }
 
 }
+
 
