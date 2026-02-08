@@ -113,25 +113,20 @@
       { "id": 9, "name": "The Toymaker", "url": "https://thetoymaker.com/", "desc": "Paper toy models and crafts to print." },
       { "id": 10, "name": "Sweezy Cursors", "url": "https://sweezy-cursors.com/", "desc": "Collection of custom mouse cursors." },
       { "id": 11, "name": "TheStocks", "url": "https://thestocks.im/", "desc": "Royalty-free stock photo aggregator." },
-      { "id": 12, "name": "Dreamina Capcut", "url": "https://dreamina.capcut.com/", "desc": "AI video effects and editing tool." },
-      { "id": 13, "name": "White Screen", "url": "https://whitescreen.online/", "desc": "Pure white screen for presentations." },
-      { "id": 14, "name": "Wallpapers-Clan", "url": "https://wallpapers-clan.com/", "desc": "Collection of wallpapers." },
-      { "id": 15, "name": "10015 AI", "url": "https://10015.io/", "desc": "All-in-one design and productivity tools." }
+      { "id": 12, "name": "White Screen", "url": "https://whitescreen.online/", "desc": "Pure white screen for presentations." },
+      { "id": 13, "name": "Wallpapers-Clan", "url": "https://wallpapers-clan.com/", "desc": "Collection of wallpapers." },
+      { "id": 14, "name": "10015 AI", "url": "https://10015.io/", "desc": "All-in-one design and productivity tools." }
     ],
     "Paid": [
       { "id": 1, "name": "Designarena", "url": "https://designarena.ai/", "desc": "AI-powered design tools and resources." },
-      { "id": 2, "name": "Designi", "url": "https://designi.com/", "desc": "AI tool to generate logos and graphics." },
-      { "id": 3, "name": "Recraft", "url": "https://recraft.ai/", "desc": "AI tool to generate vector art and illustrations." },
-      { "id": 4, "name": "Human Biodigital", "url": "https://human.biodigital.com/", "desc": "Interactive 3D human anatomy model." },
-      { "id": 5, "name": "Glideapps", "url": "https://glideapps.com/", "desc": "Create apps from Google Sheets, no code." },
-      { "id": 6, "name": "Universe", "url": "https://universe.io/", "desc": "Create a simple website on your phone." },
-      { "id": 7, "name": "Tripo3d AI", "url": "https://tripo3d.ai/", "desc": "AI tool to generate 3D models from text." },
-      { "id": 8, "name": "Jitter", "url": "https://jitter.video/", "desc": "Create animated graphics and videos." },
-      { "id": 9, "name": "Imgflip", "url": "https://imgflip.com/memetemplates", "desc": "Meme generator with templates." },
-      { "id": 10, "name": "Hera Video", "url": "https://hera.video/", "desc": "Video creation and editing tool." },
-      { "id": 11, "name": "Recrtaft AI", "url": "https://recrtaft.ai/", "desc": "AI recruiting and hiring platform." },
-      { "id": 12, "name": "Celebify AI", "url": "https://celebify.ai/", "desc": "Transform photos into celebrity styles." },
-      { "id": 13, "name": "MyPerfectPack", "url": "https://myperfectpack.com/", "desc": "Custom packaging design tool." }
+      { "id": 2, "name": "Recraft", "url": "https://recraft.ai/", "desc": "AI tool to generate vector art and illustrations." },
+      { "id": 3, "name": "Human Biodigital", "url": "https://human.biodigital.com/", "desc": "Interactive 3D human anatomy model." },
+      { "id": 4, "name": "Glideapps", "url": "https://glideapps.com/", "desc": "Create apps from Google Sheets, no code." },
+      { "id": 5, "name": "Tripo3d AI", "url": "https://tripo3d.ai/", "desc": "AI tool to generate 3D models from text." },
+      { "id": 6, "name": "Jitter", "url": "https://jitter.video/", "desc": "Create animated graphics and videos." },
+      { "id": 7, "name": "Imgflip", "url": "https://imgflip.com/memetemplates", "desc": "Meme generator with templates." },
+      { "id": 8, "name": "Hera Video", "url": "https://hera.video/", "desc": "Video creation and editing tool." },
+      { "id": 9, "name": "MyPerfectPack", "url": "https://myperfectpack.com/", "desc": "Custom packaging design tool." }
     ]
   },
 
@@ -170,9 +165,7 @@
       { "id": 13, "name": "Dos Zone", "url": "https://dos.zone/", "desc": "Play classic DOS games online via emulation." },
       { "id": 14, "name": "Rocket Goal", "url": "https://rocketgoal.io/", "desc": "Football (soccer) gaming platform." },
       { "id": 15, "name": "Myretrotvs", "url": "https://myretrotvs.com/", "desc": "Watch old TV shows and commercials." },
-      { "id": 16, "name": "SteamUnlocked", "url": "https://steamunlocked.org/", "desc": "Download free PC games." },
-      { "id": 17, "name": "CityWalk Live", "url": "https://citywalk.live/", "desc": "Virtual city exploration." },
-      { "id": 18, "name": "Floor796", "url": "https://floor796.com/", "desc": "Interactive panoramic pixel art world." }
+      { "id": 16, "name": "Floor796", "url": "https://floor796.com/", "desc": "Interactive panoramic pixel art world." }
     ],
     "Paid": [
       { "id": 1, "name": "Airconsole", "url": "https://airconsole.com/", "desc": "Play party games using your phone as a controller." },
@@ -185,14 +178,10 @@
   "Media (Streaming, Anime, Music)": {
     "Free": [
       { "id": 1, "name": "WCOfun Watch", "url": "https://wcofun.watch/", "desc": "Watch cartoons and anime online." },
-      { "id": 2, "name": "Animesalt", "url": "https://animesalt.top/", "desc": "Watch anime online for free." },
+      
       { "id": 3, "name": "I Have No tv", "url": "https://ihavenotv.com/", "desc": "Archive of free documentaries and films." },
       { "id": 4, "name": "DrivenListen", "url": "https://drivenlisten.com/", "desc": "Find new music through radio-like channels." },
       { "id": 5, "name": "Playphrase", "url": "https://playphrase.me/", "desc": "Search for movie and TV clips by dialogue." },
-      { "id": 6, "name": "Jollymod", "url": "https://jollymod.com/", "desc": "Mods for games, apps, and streaming services." },
-      { "id": 7, "name": "Moonflix", "url": "https://moonflix.in/", "desc": "Streaming movies and shows." },
-      { "id": 8, "name": "MHD Tv Max", "url": "https://mhdtvmax.com/", "desc": "Live TV and streaming platform." },
-      { "id": 9, "name": "Tmovie Tv", "url": "https://tmovie.tv/", "desc": "Movie streaming site." }
 
     ],
     "Paid": [
@@ -368,6 +357,7 @@
   }
 
 }
+
 
 
 
