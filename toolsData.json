@@ -20,9 +20,8 @@
       { "id": 5, "name": "Blackbox AI", "url": "https://blackbox.ai/", "desc": "AI coding assistant and code generator." },
       { "id": 6, "name": "Packify AI", "url": "https://packify.ai/", "desc": "AI tool to package and deploy code." },
       { "id": 7, "name": "Arting AI", "url": "https://arting.ai/", "desc": "AI-powered art and design tool." },
-      { "id": 8, "name": "Data Button", "url": "https://databutton.com/", "desc": "A Build web apps with AI, no coding needed." },
-      { "id": 9, "name": "Backpackbot AI", "url": "https://backpackbot.ai/", "desc": "AI coding companion and assistant." },
-      { "id": 10, "name": "Akto", "url": "https://akto.io/", "desc": "API security testing platform." }
+      { "id": 8, "name": "Data Button", "url": "https://databutton.com/", "desc": "A Build web apps with AI, no coding needed." },      
+      { "id": 9, "name": "Akto", "url": "https://akto.io/", "desc": "API security testing platform." }
     ]
   },
   "Education & Study":{
@@ -33,12 +32,10 @@
       { "id": 4, "name": "Chemcollective", "url": "https://chemcollective.org/", "desc": "Virtual chemistry labs and activities." },
       { "id": 5, "name": "sweethome3d", "url": "https://sweethome3d.com/", "desc": "Free interior design and architecture software." },
       { "id": 6, "name": "Ravelry", "url": "https://ravelry.com/", "desc": "Community site for knitting and crochet patterns." },
-      { "id": 7, "name": "Emupedia", "url": "https://emupedia.net/", "desc": "Educational retro games and software archive." },
-      { "id": 8, "name": "Geo-fs", "url": "https://geo-fs.com/", "desc": "Online flight simulator for geography learning." },
-      { "id": 9, "name": "Animejs", "url": "https://animejs.com/", "desc": "JavaScript animation library documentation." },
-      { "id": 10, "name": "Magic AI Editor", "url": "https://magicaieditor.com/", "desc": "AI code editor and learning tool." },
-      { "id": 11, "name": "Exiftool", "url": "https://exiftool.org/", "desc": "Read, write, and edit metadata in files." },
-      { "id": 12, "name": "Phase", "url": "https://phase.com/", "desc": "Interactive 3D models for education." }
+      { "id": 7, "name": "Geo-fs", "url": "https://geo-fs.com/", "desc": "Online flight simulator for geography learning." },
+      { "id": 8, "name": "Magic AI Editor", "url": "https://magicaieditor.com/", "desc": "AI code editor and learning tool." },
+      { "id": 9, "name": "Exiftool", "url": "https://exiftool.org/", "desc": "Read, write, and edit metadata in files." },
+      { "id": 10, "name": "Phase", "url": "https://phase.com/", "desc": "Interactive 3D models for education." }
     ],
 
     "Paid":[
@@ -66,15 +63,13 @@
     "Paid":[
       { "id": 1, "name": "Go Live India", "url": "https://goliveindia.in/", "desc": "Website development and digital marketing services." },
       { "id": 2, "name": "Content Core", "url": "https://contentcore.xyz/", "desc": "Content marketing tools and resources." },
-      { "id": 3, "name": "Production Create", "url": "https://productioncreate.com/", "desc": "Content creation for marketing campaigns." },
-      { "id": 4, "name": "Preprod AI", "url": "https://preprod.ai/", "desc": "AI-powered content optimization tool." },
-      { "id": 5, "name": "HappyScribe", "url": "https://happyscribe.com/", "desc": "Transcription and subtitling for content creators." },
-      { "id": 6, "name": "Videogen", "url": "https://videogen.io/", "desc": "AI video generator for marketing content." },
-      { "id": 7, "name": "Phantom Buster", "url": "https://phantombuster.com/", "desc": "Automate marketing and lead generation." },
-      { "id": 8, "name": "PrepostSEO", "url": "https://prepostseo.com/", "desc": "SEO tools suite (plagiarism, grammar, etc.)." },
-      { "id": 9, "name": "Page Audit", "url": "https://pageaudit.com/", "desc": "Website SEO analysis and auditing tool." },
-      { "id": 10, "name": "Inro Social", "url": "https://inro.social/", "desc": "Social media management and analytics." },
-      { "id": 11, "name": "Atlancer AI", "url": "https://atlancer.ai/", "desc": "Freelance platform for marketing professionals." }
+      { "id": 3, "name": "HappyScribe", "url": "https://happyscribe.com/", "desc": "Transcription and subtitling for content creators." },
+      { "id": 4, "name": "Videogen", "url": "https://videogen.io/", "desc": "AI video generator for marketing content." },
+      { "id": 5, "name": "Phantom Buster", "url": "https://phantombuster.com/", "desc": "Automate marketing and lead generation." },
+      { "id": 6, "name": "PrepostSEO", "url": "https://prepostseo.com/", "desc": "SEO tools suite (plagiarism, grammar, etc.)." },
+      { "id": 7, "name": "Page Audit", "url": "https://pageaudit.com/", "desc": "Website SEO analysis and auditing tool." },
+      { "id": 8, "name": "Inro Social", "url": "https://inro.social/", "desc": "Social media management and analytics." },
+      { "id": 9, "name": "Atlancer AI", "url": "https://atlancer.ai/", "desc": "Freelance platform for marketing professionals." }
     ]
   },
 
@@ -373,6 +368,7 @@
   }
 
 }
+
 
 
 
