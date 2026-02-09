@@ -228,20 +228,20 @@
       { "id": 2, "name": "Infinity Free", "url": "https://infinityfree.com/", "desc": "Free web hosting with no ads." },
       { "id": 3, "name": "Fmhy Net", "url": "https://fmhy.net/", "desc": "Free Media Heck Yeah - massive list of free resources." },
       { "id": 4, "name": "Is There Anydeal", "url": "https://isthereanydeal.com/", "desc": "Tracks PC game prices and deals." },
-      { "id": 5, "name": "dekudeals", "url": "https://dekudeals.com/", "desc": "Tracks Nintendo Switch game prices and deals." },
-      { "id": 6, "name": "Freedomain", "url": "https://freedomain.one/", "desc": "Get free domain names." },
-      { "id": 7, "name": "Adescargar", "url": "https://adescargar.net/", "desc": "Download free apps and software." }
+      { "id": 5, "name": "Freedomain", "url": "https://freedomain.one/", "desc": "Get free domain names." },
+      { "id": 6, "name": "Adescargar", "url": "https://adescargar.net/", "desc": "Download free apps and software." }
 
     ],
     "Paid": [
-      { "id": 1, "name": "Freeup", "url": "https://freeup.net/", "desc": "Hire freelance professionals." }
+      { "id": 1, "name": "Freeup", "url": "https://freeup.net/", "desc": "Hire freelance professionals." },
+      { "id": 2, "name": "dekudeals", "url": "https://dekudeals.com/", "desc": "Tracks Nintendo Switch game prices and deals." }
 
     ]
   },
 
   "Utilities": {
     "Free": [
-      { "id": 1, "name": "Whatsmyname App", "url": "https://whatsmyname.app/", "desc": "Check usernames across many social sites." },
+      
       { "id": 2, "name": "Web Studio", "url": "https://webstudio.is/", "desc": "Web-based design and prototyping tool." },
       { "id": 3, "name": "Blink New", "url": "https://blink.new/", "desc": "Quickly create a new development project." },
       { "id": 4, "name": "Creenity", "url": "https://creenity.io/", "desc": "Tool to record your screen and camera." },
@@ -276,7 +276,8 @@
       { "id": 2, "name": "Proxyearth", "url": "https://proxyearth.org/", "desc": "List of free proxy servers." },
       { "id": 3, "name": "DeepWebNest", "url": "https://deepwebnest.com/", "desc": "Directory of dark web links and resources." },
       { "id": 4, "name": "Tosdr", "url": "https://tosdr.org/", "desc": "'Terms of Service; Didn't Read' - rates website terms." },
-      { "id": 5, "name": "App Hackcheck", "url": "https://app.hackcheck.io/", "desc": "Check if your email was in a data breach." }
+      { "id": 5, "name": "App Hackcheck", "url": "https://app.hackcheck.io/", "desc": "Check if your email was in a data breach." },
+      { "id": 6, "name": "Whatsmyname App", "url": "https://whatsmyname.app/", "desc": "Check usernames across many social sites." }
 
     ],
     "Paid": [
@@ -357,6 +358,7 @@
   }
 
 }
+
 
 
 
