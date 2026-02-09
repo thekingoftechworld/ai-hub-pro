@@ -35,7 +35,10 @@
       { "id": 7, "name": "Geo-fs", "url": "https://geo-fs.com/", "desc": "Online flight simulator for geography learning." },
       { "id": 8, "name": "Magic AI Editor", "url": "https://magicaieditor.com/", "desc": "AI code editor and learning tool." },
       { "id": 9, "name": "Exiftool", "url": "https://exiftool.org/", "desc": "Read, write, and edit metadata in files." },
-      { "id": 10, "name": "Phase", "url": "https://phase.com/", "desc": "Interactive 3D models for education." }
+      { "id": 10, "name": "Phase", "url": "https://phase.com/", "desc": "Interactive 3D models for education." },
+      { "id": 11, "name": "Monkeytype", "url": "https://monkeytype.com/", "desc": "Minimalist typing speed test." },
+      { "id": 12, "name": "Corrupt-a-File", "url": "https://corrupt-a-file.net/", "desc": "Intentionally corrupt a file (e.g., for school)." },
+      { "id": 13, "name": "Cymath", "url": "https://cymath.com/", "desc": "Math problem solver with steps." }
     ],
 
     "Paid":[
@@ -92,11 +95,14 @@
       { "id": 15, "name": "Scrollxui", "url": "https://scrollxui.dev/", "desc": "Fancy scroll-based animations." },
       { "id": 16, "name": "Web-Check", "url": "https://web-check.xyz/", "desc": "Analyze any website's tech stack." },
       { "id": 17, "name": "Pomelli", "url": "https://pomelli.me/", "desc": "Productivity and task management for devs." }
+      
     ],
     "Paid": [
       { "id": 1, "name": "Diffchecker", "url": "https://diffchecker.com/", "desc": "Compare text files to find differences." },
       { "id": 2, "name": "Openstatus", "url": "https://openstatus.dev/", "desc": "Monitor your website's uptime." },
-      { "id": 3, "name": "Sejda", "url": "https://sejda.com/", "desc": "Online PDF editor for basic tasks." }
+      { "id": 3, "name": "Sejda", "url": "https://sejda.com/", "desc": "Online PDF editor for basic tasks." },
+      { "id": 4, "name": "Web Studio", "url": "https://webstudio.is/", "desc": "Web-based design and prototyping tool." },
+      { "id": 5, "name": "Blink New", "url": "https://blink.new/", "desc": "Quickly create a new development project." }
 
     ]
   },
@@ -165,7 +171,8 @@
       { "id": 13, "name": "Dos Zone", "url": "https://dos.zone/", "desc": "Play classic DOS games online via emulation." },
       { "id": 14, "name": "Rocket Goal", "url": "https://rocketgoal.io/", "desc": "Football (soccer) gaming platform." },
       { "id": 15, "name": "Myretrotvs", "url": "https://myretrotvs.com/", "desc": "Watch old TV shows and commercials." },
-      { "id": 16, "name": "Floor796", "url": "https://floor796.com/", "desc": "Interactive panoramic pixel art world." }
+      { "id": 16, "name": "Floor796", "url": "https://floor796.com/", "desc": "Interactive panoramic pixel art world." },
+      { "id": 17, "name": "Call Bomberz", "url": "https://callbomberz.in/", "desc": "Prank call tool (use responsibly)." }
     ],
     "Paid": [
       { "id": 1, "name": "Airconsole", "url": "https://airconsole.com/", "desc": "Play party games using your phone as a controller." },
@@ -198,7 +205,8 @@
       { "id": 4, "name": "Networthon", "url": "https://networthon.com/", "desc": "Net worth calculator and tracker." },
       { "id": 5, "name": "Lookup-id", "url": "https://lookup-id.com/", "desc": "Social media ID lookup tool." },
       { "id": 6, "name": "Archive", "url": "https://archive.is/", "desc": "Website archiving service." },
-      { "id": 7, "name": "Krazylist", "url": "https://krazylist.com/", "desc": "Curated lists and recommendations." }
+      { "id": 7, "name": "Krazylist", "url": "https://krazylist.com/", "desc": "Curated lists and recommendations." },
+      { "id": 8, "name": "SMS24", "url": "https://sms24.me/", "desc": "Receive SMS online with temporary numbers." }
 
     ],
     "Paid": [
@@ -239,26 +247,20 @@
     ]
   },
 
-  "Utilities": {
+  "Editing Tools & Resources": {
     "Free": [
       
-      { "id": 2, "name": "Web Studio", "url": "https://webstudio.is/", "desc": "Web-based design and prototyping tool." },
-      { "id": 3, "name": "Blink New", "url": "https://blink.new/", "desc": "Quickly create a new development project." },
-      { "id": 4, "name": "Creenity", "url": "https://creenity.io/", "desc": "Tool to record your screen and camera." },
-      { "id": 5, "name": "Tube Transcript", "url": "https://tubetranscript.com/", "desc": "Get transcripts from YouTube videos." },
-      { "id": 6, "name": "File Pursuit", "url": "https://filepursuit.com/", "desc": "Search engine for finding files on the web." },
-      { "id": 7, "name": "My Instants", "url": "https://myinstants.com/", "desc": "Huge library of sound effects and meme sounds." },
-      { "id": 8, "name": "Monkeytype", "url": "https://monkeytype.com/", "desc": "Minimalist typing speed test." },
-      { "id": 9, "name": "Call Bomberz", "url": "https://callbomberz.in/", "desc": "Prank call tool (use responsibly)." },
-      { "id": 10, "name": "Corrupt-a-File", "url": "https://corrupt-a-file.net/", "desc": "Intentionally corrupt a file (e.g., for school)." },
-      { "id": 11, "name": "Cymath", "url": "https://cymath.com/", "desc": "Math problem solver with steps." },
-      { "id": 12, "name": "Omni Calculator", "url": "https://omnicalculator.com/", "desc": "Calculators for hundreds of specific tasks." },
+      { "id": 1, "name": "Tube Transcript", "url": "https://tubetranscript.com/", "desc": "Get transcripts from YouTube videos." },
+      { "id": 2, "name": "My Instants", "url": "https://myinstants.com/", "desc": "Huge library of sound effects and meme sounds." },
+      
+      
+      
       { "id": 13, "name": "Econvert", "url": "https://econvert.org/", "desc": "Convert audio, video, images, and documents." },
       { "id": 14, "name": "Video-Converter", "url": "https://video-converter.org/", "desc": "Convert video files to different formats." },
-      { "id": 15, "name": "SMS24", "url": "https://sms24.me/", "desc": "Receive SMS online with temporary numbers." },
+      
       { "id": 16, "name": "RandomSkip", "url": "https://randomskip.com/", "desc": "Skip YouTube intros and outros automatically." },
-      { "id": 17, "name": "Ipleak", "url": "https://ipleak.net/", "desc": "Check your IP address and DNS leaks." },
-      { "id": 18, "name": "Have I Been Pwned", "url": "https://haveibeenpwned.com/", "desc": "Check if your email was in data breaches." },
+      
+      
       { "id": 19, "name": "Y2doc", "url": "https://y2doc.com/", "desc": "YouTube to document converter." },
       { "id": 20, "name": "Ccard Generator", "url": "https://ccardgenerator.com/", "desc": "Generate test credit card numbers." }
 
@@ -273,24 +275,26 @@
   "Privacy & Security": {
     "Free": [
       { "id": 1, "name": "Proxyium", "url": "https://proxyium.com/", "desc": "Free web proxy to browse anonymously." },
-      { "id": 2, "name": "Proxyearth", "url": "https://proxyearth.org/", "desc": "List of free proxy servers." },
-      { "id": 3, "name": "DeepWebNest", "url": "https://deepwebnest.com/", "desc": "Directory of dark web links and resources." },
+      
+      
       { "id": 4, "name": "Tosdr", "url": "https://tosdr.org/", "desc": "'Terms of Service; Didn't Read' - rates website terms." },
       { "id": 5, "name": "App Hackcheck", "url": "https://app.hackcheck.io/", "desc": "Check if your email was in a data breach." },
-      { "id": 6, "name": "Whatsmyname App", "url": "https://whatsmyname.app/", "desc": "Check usernames across many social sites." }
+      { "id": 6, "name": "Whatsmyname App", "url": "https://whatsmyname.app/", "desc": "Check usernames across many social sites." },
+      { "id": 7, "name": "Ipleak", "url": "https://ipleak.net/", "desc": "Check your IP address and DNS leaks." },
+      { "id": 8, "name": "Have I Been Pwned", "url": "https://haveibeenpwned.com/", "desc": "Check if your email was in data breaches." }
 
     ],
     "Paid": [
-      { "id": 1, "name": "White Pages", "url": "https://whitepages.com/", "desc": "Find people and contact information." },
-      { "id": 2, "name": "Search-People-for-Free", "url": "https://searchpeopleforfree.com/", "desc": "People search and background check." }
-
+      { "id": 1, "name": "White Pages", "url": "https://whitepages.com/", "desc": "Find people and contact information." }
+      
     ]
   },
 
   "Marketplaces & Platforms": {
     "Free": [
       { "id": 1, "name": "Welib", "url": "https://welib.org/", "desc": "Library of website templates and assets." },
-      { "id": 2, "name": "Takeout Google", "url": "https://takeout.google.com/", "desc": "Download a copy of your Google data." }
+      
+      { "id": 3, "name": "Omni Calculator", "url": "https://omnicalculator.com/", "desc": "Calculators for hundreds of specific tasks." }
 
     ],
     "Paid": [
@@ -306,7 +310,7 @@
     "Free": [
       { "id": 1, "name": "4fnet", "url": "https://4fnet.org/", "desc": "Forum for sharing files and links." },
       { "id": 2, "name": "Staying Fun", "url": "https://staying.fun/", "desc": "Collection of fun and interesting websites." },
-      { "id": 3, "name": "Yarrlist", "url": "https://yarrlist.com/", "desc": "Directory of sites for Freely Accessible media." },
+      
       { "id": 4, "name": "Taste Atlas", "url": "https://tasteatlas.com/", "desc": "World map of food, ingredients, and dishes." },
       { "id": 5, "name": "MuscleWiki", "url": "https://musclewiki.com/", "desc": "Fitness guide targeting specific muscles." },
       { "id": 6, "name": "Victorraulrr", "url": "https://victorraulrr.net/", "desc": "Personal blog or portfolio site." },
@@ -314,8 +318,7 @@
       { "id": 8, "name": "Lookups", "url": "https://lookups.io/", "desc": "Platform for OSINT and research." },
       { "id": 9, "name": "Dimensions", "url": "https://dimensions.com/", "desc": "Database of precise dimensions for objects." },
       { "id": 10, "name": "Jimpl", "url": "https://jimpl.com/", "desc": "'ump in My Photo Library' - share photo albums." },
-      { "id": 11, "name": "ZTY", "url": "https://zty.pe/", "desc": "Collaborative online pixel art board." },
-      { "id": 12, "name": "Hicine App", "url": "https://hicine.app/", "desc": "Watch movies and shows with friends online." }
+      { "id": 11, "name": "ZTY", "url": "https://zty.pe/", "desc": "Collaborative online pixel art board." }
 
     ],
     "Paid": [
@@ -358,6 +361,7 @@
   }
 
 }
+
 
 
 
