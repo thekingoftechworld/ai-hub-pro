@@ -37,8 +37,8 @@
       { "id": 9, "name": "Exiftool", "url": "https://exiftool.org/", "desc": "Read, write, and edit metadata in files." },
       { "id": 10, "name": "Phase", "url": "https://phase.com/", "desc": "Interactive 3D models for education." },
       { "id": 11, "name": "Monkeytype", "url": "https://monkeytype.com/", "desc": "Minimalist typing speed test." },
-      { "id": 12, "name": "Corrupt-a-File", "url": "https://corrupt-a-file.net/", "desc": "Intentionally corrupt a file (e.g., for school)." },
-      { "id": 13, "name": "Cymath", "url": "https://cymath.com/", "desc": "Math problem solver with steps." }
+      
+      { "id": 12, "name": "Cymath", "url": "https://cymath.com/", "desc": "Math problem solver with steps." }
     ],
 
     "Paid":[
@@ -58,21 +58,19 @@
   "Digital Marketing & SEO":{
     "Free":[
       { "id": 1, "name": "Dork GPT", "url": "https://dorkgpt.com/", "desc": "AI tool for generating Google dorks." },
-      { "id": 2, "name": "Just Delete Me", "url": "https://justdeleteme.xyz/", "desc": "Guide to deleting online accounts." },
-      { "id": 3, "name": "Listmonk App", "url": "https://listmonk.app/", "desc": "Self-hosted newsletter and mailing list manager." }
+      { "id": 2, "name": "Listmonk App", "url": "https://listmonk.app/", "desc": "Self-hosted newsletter and mailing list manager." }
 
     ],
 
     "Paid":[
       { "id": 1, "name": "Go Live India", "url": "https://goliveindia.in/", "desc": "Website development and digital marketing services." },
-      { "id": 2, "name": "Content Core", "url": "https://contentcore.xyz/", "desc": "Content marketing tools and resources." },
-      { "id": 3, "name": "HappyScribe", "url": "https://happyscribe.com/", "desc": "Transcription and subtitling for content creators." },
-      { "id": 4, "name": "Videogen", "url": "https://videogen.io/", "desc": "AI video generator for marketing content." },
-      { "id": 5, "name": "Phantom Buster", "url": "https://phantombuster.com/", "desc": "Automate marketing and lead generation." },
-      { "id": 6, "name": "PrepostSEO", "url": "https://prepostseo.com/", "desc": "SEO tools suite (plagiarism, grammar, etc.)." },
-      { "id": 7, "name": "Page Audit", "url": "https://pageaudit.com/", "desc": "Website SEO analysis and auditing tool." },
-      { "id": 8, "name": "Inro Social", "url": "https://inro.social/", "desc": "Social media management and analytics." },
-      { "id": 9, "name": "Atlancer AI", "url": "https://atlancer.ai/", "desc": "Freelance platform for marketing professionals." }
+      { "id": 2, "name": "HappyScribe", "url": "https://happyscribe.com/", "desc": "Transcription and subtitling for content creators." },
+      { "id": 3, "name": "Videogen", "url": "https://videogen.io/", "desc": "AI video generator for marketing content." },
+      { "id": 4, "name": "Phantom Buster", "url": "https://phantombuster.com/", "desc": "Automate marketing and lead generation." },
+      { "id": 5, "name": "PrepostSEO", "url": "https://prepostseo.com/", "desc": "SEO tools suite (plagiarism, grammar, etc.)." },
+      { "id": 6, "name": "Page Audit", "url": "https://pageaudit.com/", "desc": "Website SEO analysis and auditing tool." },
+      { "id": 7, "name": "Inro Social", "url": "https://inro.social/", "desc": "Social media management and analytics." },
+      { "id": 8, "name": "Atlancer AI", "url": "https://atlancer.ai/", "desc": "Freelance platform for marketing professionals." }
     ]
   },
 
@@ -93,8 +91,8 @@
       { "id": 13, "name": "Auto Prefixer", "url": "https://autoprefixer.github.io/", "desc": "Add vendor prefixes to CSS automatically." },
       { "id": 14, "name": "html5up", "url": "https://html5up.net/", "desc": "Free, responsive HTML website templates." },
       { "id": 15, "name": "Scrollxui", "url": "https://scrollxui.dev/", "desc": "Fancy scroll-based animations." },
-      { "id": 16, "name": "Web-Check", "url": "https://web-check.xyz/", "desc": "Analyze any website's tech stack." },
-      { "id": 17, "name": "Pomelli", "url": "https://pomelli.me/", "desc": "Productivity and task management for devs." }
+      { "id": 16, "name": "Web-Check", "url": "https://web-check.xyz/", "desc": "Analyze any website's tech stack." }
+      
       
     ],
     "Paid": [
@@ -109,19 +107,16 @@
   "Design & Creativity": {
     "Free": [
       { "id": 1, "name": "Cosmic UI", "url": "https://cosmic-ui.com/", "desc": "Library of copy-paste UI components." },
-      { "id": 2, "name": "Atoms Dev", "url": "https://atoms.dev/", "desc": "Design system and UI component builder." },
-      { "id": 3, "name": "MagicPattern", "url": "https://magicpattern.design/tools/css-backgrounds", "desc": "Generate CSS background patterns." },
-      { "id": 4, "name": "Nurui Vercel App", "url": "https://nurui.vercel.app/", "desc": "Elegant portfolio theme for Gatsby." },
-      { "id": 5, "name": "Banana Prompts", "url": "https://bananaprompts.xyz/", "desc": "Collection of prompts for AI image generation." },
-      { "id": 6, "name": "Create Wan", "url": "https://create.wan.video/", "desc": "Tool to create short videos." },
-      { "id": 7, "name": "Emoji Encoder Vercel App", "url": "https://emoji-encoder.vercel.app/", "desc": "Convert text into emoji sequences." },
-      { "id": 8, "name": "Paper Animator", "url": "https://paperanimator.com/", "desc": "Create simple paper-like animations." },
-      { "id": 9, "name": "The Toymaker", "url": "https://thetoymaker.com/", "desc": "Paper toy models and crafts to print." },
-      { "id": 10, "name": "Sweezy Cursors", "url": "https://sweezy-cursors.com/", "desc": "Collection of custom mouse cursors." },
-      { "id": 11, "name": "TheStocks", "url": "https://thestocks.im/", "desc": "Royalty-free stock photo aggregator." },
-      { "id": 12, "name": "White Screen", "url": "https://whitescreen.online/", "desc": "Pure white screen for presentations." },
-      { "id": 13, "name": "Wallpapers-Clan", "url": "https://wallpapers-clan.com/", "desc": "Collection of wallpapers." },
-      { "id": 14, "name": "10015 AI", "url": "https://10015.io/", "desc": "All-in-one design and productivity tools." }
+      { "id": 2, "name": "MagicPattern", "url": "https://magicpattern.design/tools/css-backgrounds", "desc": "Generate CSS background patterns." },
+      { "id": 3, "name": "Nurui Vercel App", "url": "https://nurui.vercel.app/", "desc": "Elegant portfolio theme for Gatsby." },
+      { "id": 4, "name": "Create Wan", "url": "https://create.wan.video/", "desc": "Tool to create short videos." },
+      { "id": 5, "name": "Emoji Encoder Vercel App", "url": "https://emoji-encoder.vercel.app/", "desc": "Convert text into emoji sequences." },
+      { "id": 6, "name": "Paper Animator", "url": "https://paperanimator.com/", "desc": "Create simple paper-like animations." },
+      { "id": 7, "name": "The Toymaker", "url": "https://thetoymaker.com/", "desc": "Paper toy models and crafts to print." },
+      { "id": 8, "name": "Sweezy Cursors", "url": "https://sweezy-cursors.com/", "desc": "Collection of custom mouse cursors." },
+      { "id": 9, "name": "TheStocks", "url": "https://thestocks.im/", "desc": "Royalty-free stock photo aggregator." },
+      { "id": 10, "name": "Wallpapers-Clan", "url": "https://wallpapers-clan.com/", "desc": "Collection of wallpapers." },
+      { "id": 11, "name": "10015 AI", "url": "https://10015.io/", "desc": "All-in-one design and productivity tools." }
     ],
     "Paid": [
       { "id": 1, "name": "Designarena", "url": "https://designarena.ai/", "desc": "AI-powered design tools and resources." },
@@ -361,6 +356,7 @@
   }
 
 }
+
 
 
 
